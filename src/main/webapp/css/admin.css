@@ -1,0 +1,75 @@
+.admin-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 35px auto;
+}
+
+.admin-card {
+    background-color: white;
+    padding: 22px;
+    margin-bottom: 20px;
+    border: 1px solid #e5e6ed;
+    border-radius: 10px;
+}
+
+.admin-card h2 {
+    margin-top: 0;
+}
+
+.admin-container table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.admin-container th {
+    background-color: #e9ebf7;
+}
+
+.admin-container button,
+.admin-container input[type="submit"] {
+    margin: 3px;
+}
+
+.admin-container form {
+    margin-bottom: 10px;
+}
+
+/* Административная панель */
+.admin-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 35px auto;
+}
+
+.admin-card {
+    padding: 22px;
+    margin-bottom: 20px;
+    background: white;
+    border: 1px solid #e5e6ed;
+    border-radius: 10px;
+}
+
+.admin-card h2 {
+    margin-top: 0;
+}
+
+.admin-container table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.admin-container th {
+    background-color: #e9ebf7;
+}
+
+.admin-container .badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 12px;
+    background-color: #eef0f8;
+    font-size: 13px;
+}
+
+.admin-container form {
+    margin-bottom: 10px;
+}
